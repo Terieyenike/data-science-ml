@@ -1,0 +1,11 @@
+Make,Colour,Odometer (KM),Doors,Price,Seats,Total fuel used,Number of wheels,Passed road safety,Fuel per 100KM (L),Country of origin
+toyota,Blue,32549,3,7000,5.0,585.8820000000001,4,True,1.8,Japan
+toyota,White,60000,4,6250,5.0,5280.0,4,True,8.8,Japan
+bmw,Black,11179,5,22000,5.0,402.444,4,True,3.6,Germany
+honda,Blue,45698,4,7500,5.0,3107.464,4,True,6.8,Japan
+nissan,White,213095,4,3500,5.0,19178.55,4,True,9.0,Japan
+honda,Red,87899,4,5000,5.0,3955.455,4,True,4.5,Japan
+toyota,White,150043,4,4000,5.0,10803.096000000001,4,True,7.2,Japan
+nissan,White,31600,4,9700,5.0,2054.0,4,True,6.5,Japan
+honda,Blue,54738,4,7000,5.0,1587.402,4,True,2.9,Japan
+toyota,Green,99213,4,4500,5.0,5258.289,4,True,5.3,Japan
