@@ -1,3 +1,3 @@
-# Using Pandas for data analysis and manipulation
+# Data Science and ML projects
 
-Pandas is an open-source library which helps you analyze and manipulate data.
+Collection of projects from using NumPy, Pandas, Matplotlib, Scikit-learn, and many more.
